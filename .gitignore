@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Generated plugin bundles and build output
+main.js
+dist/
+*.map
+*.tsbuildinfo
+
+# Local Obsidian vault data
+.obsidian/
+data.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Editor settings
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
